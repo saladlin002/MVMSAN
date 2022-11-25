@@ -18,8 +18,6 @@ Download the 20 views ModelNet10 and ModelNet40 dataset provided by [[rotationne
 
 `python train.py`
 
-The code is heavily borrowed from [[mvcnn-new]](https://github.com/jongchyisu/mvcnn_pytorch).
-
 ## Reference
 
 Su, H., Maji, S., Kalogerakis, E., Learned-Miller, E.: Multi-view convolutional neural networks for 3d shape recognition. In: 2015 IEEE International Conference on Computer Vision (ICCV). (2015) 945–953
